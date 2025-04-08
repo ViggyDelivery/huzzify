@@ -1,5 +1,4 @@
 vowels = ['a', 'e', 'i', 'o', 'u']
-import flask
 
 def huzzify(word):
     if no_vowels(word):
